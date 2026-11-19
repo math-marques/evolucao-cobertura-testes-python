@@ -1,0 +1,4 @@
+projeto,versoes_validas,faixa,statement_ini_fim,branch_ini_fim,delta_ramos,gap_stmt_branch_atual
+Flask,8,2.3.x -> main,91.77% -> 93.39%,83.7% -> 82.79%,44,10.6
+Click,8,8.1.4 -> main,81.32% -> 87.36%,72.83% -> 80.34%,196,7.02
+Requests,12,2.32.0 -> main,88.31% -> 89.06%,80.95% -> 81.09%,22,7.97
